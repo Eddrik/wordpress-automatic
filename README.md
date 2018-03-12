@@ -44,4 +44,3 @@ Update `require` section in `composer.json` as described on https://wpackagist.o
     ```
 3. Add your plugin/theme directory under version control
 4. Run `composer install`. Composer will install WordPress core and keep your custom theme
-# wordpress-automatic
